@@ -32,10 +32,10 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-  background: var(--cream);
+  background: #333;
 }
 html::-webkit-scrollbar-thumb {
-  background: var(--maroon);
+  background: #111;
 }
 body {
   background: #111;
